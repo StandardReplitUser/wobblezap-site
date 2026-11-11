@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font: 18px/1.45 Georgia, "Times New Roman", serif;
+  color: #1c1430;
+  background: #fffaf3;
+}
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.2rem; margin-top: 1.6rem; }
+a { color: #5b2d86; }
